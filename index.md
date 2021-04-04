@@ -2,6 +2,7 @@
 
 Hello, my name is Keith and I am a third year at UCSD, majoring in **Mathematics and Computer Science** and minoring in **Cognitive Science**. I have only been in this major for only a year so I still feel relatively new to the field of computer science. My career goal is to become a Software Engineer. This is my [LinkedIn](https://www.linkedin.com/in/keith-h-263215115/) and my [Github](https://github.com/KeithDHo). Some coding languages that I know include:
 > Java, Python, C++, and C.
+
 Computer science classes that I have taken at UCSD include:
 ```
 CSE 11
