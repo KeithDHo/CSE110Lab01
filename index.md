@@ -1,6 +1,6 @@
 # Welcome to Keith Ho's Page
 
-Hello, my name is Keith and I am a third year at UCSD, majoring in **Mathematics and Computer Science** and minoring in **Cognitive Science**. I have only been in this major for only a year so I still feel relatively new to the field of computer science. My career goal is to become a Software Engineer. This is my [LinkedIn](https://www.linkedin.com/in/keith-h-263215115/) and my [Github](https://github.com/KeithDHo). Some coding languages that I know include:
+Hello, my name is Keith and I am a third year at UCSD, majoring in **Mathematics and Computer Science** and minoring in **Cognitive Science**. I have only been in this major for only a year so I still feel relatively new to the field of computer science. I am currently taking Computer Science, Cognitive Science, and Math [classes](#current-courses-i-am-enrolled-in). My career goal is to become a Software Engineer. This is my [LinkedIn](https://www.linkedin.com/in/keith-h-263215115/) and my [Github](https://github.com/KeithDHo). Some coding languages that I know include:
 > Java, Python, C++, and C.
 
 Computer science classes that I have taken at UCSD include:
@@ -13,7 +13,7 @@ CSE 105
 ```
 
 ### Hobbies
-Aside from education and professions, my hobbies include watching TV shows on Netflix and playing games. I have recently finish the Netflix shows, *The Irregulars* and *Schitt's Creek*. 
+Aside from education and professions, my hobbies include watching TV shows on Netflix and playing games. I have recently finish the Netflix shows, *The Irregulars* and *Schitt's Creek*. I enjoy playing *League of Legends* and *Genshin Impact*.
 
 ### Lab1 Screenshots
 [Here](./Screenshots/Lab1%20Part%202.1,%202.2%20.png) is my screenshot for the beginning of the lab. [Here](./Screenshots/Lab1%20gitignore.png) is my screenshot for the staged commit part.
