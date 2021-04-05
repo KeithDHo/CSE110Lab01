@@ -33,7 +33,7 @@ Aside from education and professions, my hobbies include watching TV shows on Ne
 4. COGS 101A
 
 ### To-Do List
-I usually create a To-Do list each week to help me keep track of what I need to get done for each class. My current list for CSE 110 looks like:
+I usually create a To-Do list each week to help me keep track of what I need to get done for each class. My current list for CSE 110 looks like this:
 - [x] Lecture 3/30
 - [x] Lecture 4/1
 - [ ] Lab 1 (Due 4/4)
